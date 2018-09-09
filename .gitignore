@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# not need
+*.txt
+Lambda-Deployment.zip
+*.json
